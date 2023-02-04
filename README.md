@@ -25,3 +25,4 @@ Kelas : TIF K 20<br>
 
 
 # Link Aplikasi
+https://uas-rismayanti.000webhostapp.com/
